@@ -1,0 +1,5 @@
+Deconflict report
+Primary: ardrone_1
+Total conflicts: 62
+Min dist: 0.447
+Mean dist: 0.703
